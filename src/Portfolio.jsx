@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 
-const BASE = "/hazimwaqar_portfolio";
+const BASE = "";
 
 /* ── TECH grouped by category — NOW 57 TECHNOLOGIES ── */
 const TECH_CATEGORIES = [
