@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Portfolio from './Portfolio'
+import Portfolio from './Portfolio_test'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
